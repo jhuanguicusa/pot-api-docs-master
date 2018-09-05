@@ -1,10 +1,7 @@
-UIC PoT Series Product API Documents
+UIC PoT Products APIs
 ====================================
 
-UIC PoT Series Product Overview
-===============================
-
-UIC PoT Series Product.::
+UIC PoT Series Product::
 
     print 'UIC PoT'
     >> UIC PoT
@@ -17,7 +14,6 @@ Guide
     
    license
    help
-   :caption: Contents:
 
 
 
